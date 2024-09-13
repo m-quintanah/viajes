@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+section {
+    padding: 60px 0;
+}
+
+.card {
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
